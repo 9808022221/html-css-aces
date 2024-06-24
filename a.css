@@ -1,0 +1,24 @@
+p{
+    background-color: blue;
+    font-size: 40px;
+}
+table{
+    border: 3px solid black;
+}
+.one{
+    background-color: gold;
+}
+#two{
+    background-color: black;
+    color: aliceblue;
+}
+
+*{
+    color:red
+}
+h1{
+    color:#000000;
+}
+section{
+    color: black;
+}

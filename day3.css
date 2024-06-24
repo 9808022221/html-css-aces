@@ -1,0 +1,51 @@
+.parent{
+    width:100px;
+    height:100px;
+    background-color:aqua;
+    padding :100px;
+    border: 10px solid red;
+    margin:10px;
+    border-radius: 100px 100px 100px 100px;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 16px;
+}
+div{
+    font-size: 12%;
+}
+.parent {
+    width:50vh;
+    height:50vh;
+    background-color: aqua;
+
+
+}
+.child{
+    height: 20px;
+    width: 20px;
+}
+.child1{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    position: relative;
+    left: 20px;
+    font-size: 10px;
+}
+.child2{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(42, 165, 42);
+    position:relative;
+    right:20px;
+    font-size: 10px ;
+}
+.child3{
+    height: 50px;
+    width: 50px;
+    background-color: blueviolet;
+    position:relative;
+    right:40px;
+}
